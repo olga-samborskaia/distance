@@ -199,6 +199,7 @@ body {
 .create-post-input {
   padding-top: 8px;
   width: 100%;
+  color: #8c8c8c;
 }
 .create-post-footer {
   display: flex;
@@ -225,4 +226,12 @@ body {
 
 .tag-icon {
   margin-right: 8px;
+}
+
+.button-text {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: bold;
+  color: #595959;
+  margin-left: 8px;
 }
